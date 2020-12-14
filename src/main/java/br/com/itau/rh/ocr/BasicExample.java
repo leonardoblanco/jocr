@@ -1,3 +1,5 @@
+package br.com.itau.rh.ocr;
+
 import org.bytedeco.javacpp.*;
 import org.bytedeco.leptonica.*;
 import org.bytedeco.tesseract.*;
